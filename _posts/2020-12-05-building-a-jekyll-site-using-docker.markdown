@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "Building a jekyll site using docker"
-date:   2020-12-03 07:28:46 -0600
+subtitle: "Go green and stop polluting your system"
+date:   2020-12-05 07:28:46 -0600
 categories: jekyll docker
+background: '/PATH_TO_IMAGE'
 ---
 This is how I use, build, and test my jekyll site locally without polluting my system with npm or ruby installations. Instead, I rely on a docker installation to run the tooling.
 
